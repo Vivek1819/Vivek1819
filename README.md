@@ -96,7 +96,6 @@
 <a href="https://instagram.com/vivekh_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekh_19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vivekh_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivek_codechef" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekhipparkar" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/vivekh_19_36481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vivekh_19_36481" height="30" width="40" /></a>
 
 </div>
 
