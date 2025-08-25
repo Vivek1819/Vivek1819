@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Vivek Hipparkar</h1>
+<h1 align="center">Hi 👋! I'm Vivek</h1>
 
 ###
 <h4 align="left">A Software Developer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.</h4>
