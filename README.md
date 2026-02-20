@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Full Stack Projects<br><br>💬 Ask me about ReactJs, NextJs, JavaScript<br><br>📫 Reach me at vivekhipparkar@gmail.com<br><br>👨‍💻 My portfolio at https://portfolio-swart-chi-20.vercel.app/</p>
+<p align="left">🌱 🌱 Currently diving deep into DevOps, Go & distributed systems<br><br>👯 Open to collaborating on Full Stack / AI-powered / DevTools / Open Source projects<br><br>💬 Ask me about React.js, Next.js, Backend Architecture, System Design<br><br>📫 Reach me at vivekhipparkar@gmail.com<br><br>👨‍💻 My portfolio at https://portfolio-swart-chi-20.vercel.app/</p>
 
 ###
 
