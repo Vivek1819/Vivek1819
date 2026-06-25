@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Vivek</h1>
 
 ###
-<h4 align="left">A Software Developer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.</h4>
+<h4 align="left">A Software Developer with a passion for building products that address real-world problems. Love to solve complex challenges and build on my problem-solving abilities.</h4>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🌱 Currently diving deep into DevOps, Go & distributed systems<br><br>👯 Open to collaborating on Full Stack / AI-powered / DevTools / Open Source projects<br><br>💬 Ask me about React.js, Next.js, Backend Architecture, System Design<br><br>📫 Reach me at vivekhipparkar@gmail.com<br><br>👨‍💻 My portfolio at https://vivek-hipparkar.vercel.app</p>
+<p align="left">🌱 Would love to dive deep into LLM Context & Distributed Systems<br><br>👯 Open to collaborations<br><br>💬 Ask me about React.js, Node.js, System Design<br><br>📫 Reach me at <a href="mailto:vivekhipparkar@gmail.com">vivekhipparkar@gmail.com</a><br><br>👨‍💻 My portfolio at https://vivek-hipparkar.vercel.app</p>
 
 ###
 
